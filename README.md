@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jonnahj
-- 👀 I’m interested in befriending strangers
+- 👀 I’m interested in python and android
 - 🌱 I’m currently into Machine Learning
-- 💞️ I’m looking to collaborate on NLP projects
 - 📫 Find me on linkedin
 
 <!---
